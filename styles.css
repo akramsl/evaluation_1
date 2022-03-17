@@ -1,12 +1,3 @@
-header > .logo {
-    box-shadow: -1em 1em 2em black;
-    width: 10em;
-    height: 7em;
-}
-
-@media screen and (min-width: 576px){
-    .logo{
-        width: 15em;
-        height: 12em;
-    }
+body {
+    height: 100vh;
 }
